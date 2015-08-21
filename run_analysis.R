@@ -10,7 +10,7 @@
 ### 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 # set working directory with the data folders
-setwd("/home/xcheng0907/GoogleDrive/Courses/DataScience_Coursera/DataCleaning/Project")
+# setwd("/home/xcheng0907/GoogleDrive/Courses/DataScience_Coursera/DataCleaning/Project")
 
 library(data.table)
 library(dplyr)
