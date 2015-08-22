@@ -28,7 +28,7 @@ In the features names:
 * 1. "subject"     
               subject number, 1...30
 * 2. "activity"
-    Acitivity label
+              Acitivity label
                            "WALKING"
                            "WALKING_UPSTAIRS"
                            "WALKING_DOWNSTAIRS"
