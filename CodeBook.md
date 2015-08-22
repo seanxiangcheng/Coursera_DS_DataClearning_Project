@@ -107,36 +107,74 @@ In the features names:
             see data description. 
 37. "timeBodyAccelerometerJerkMagnitude_mean" 
             see data description. 
-38. "timeBodyAccelerometerJerkMagnitude_std"          
+38. "timeBodyAccelerometerJerkMagnitude_std"  
+            see data description. 
 39. "timeBodyGyroscopeMagnitude_mean"                 
+            see data description. 
 40. "timeBodyGyroscopeMagnitude_std"                  
+            see data description. 
 41. "timeBodyGyroscopeJerkMagnitude_mean"             
+            see data description. 
 42. "timeBodyGyroscopeJerkMagnitude_std"              
+            see data description. 
 43. "frequencyBodyAccelerometer_mean_X"               
+            see data description. 
 44. "frequencyBodyAccelerometer_mean_Y"               
+            see data description. 
 45. "frequencyBodyAccelerometer_mean_Z"               
+            see data description. 
 46. "frequencyBodyAccelerometer_std_X"                
+            see data description. 
 47. "frequencyBodyAccelerometer_std_Y"                
+            see data description. 
 48. "frequencyBodyAccelerometer_std_Z"                
+            see data description. 
 49. "frequencyBodyAccelerometerJerk_mean_X"           
+            see data description. 
 50. "frequencyBodyAccelerometerJerk_mean_Y"           
+            see data description. 
 51. "frequencyBodyAccelerometerJerk_mean_Z"           
+            see data description. 
 52. "frequencyBodyAccelerometerJerk_std_X"            
+            see data description. 
 53. "frequencyBodyAccelerometerJerk_std_Y"            
+            see data description. 
 54. "frequencyBodyAccelerometerJerk_std_Z"            
+            see data description. 
 55. "frequencyBodyGyroscope_mean_X"                   
+            see data description. 
 56. "frequencyBodyGyroscope_mean_Y"                   
+            see data description. 
 57. "frequencyBodyGyroscope_mean_Z"                   
+            see data description. 
 58. "frequencyBodyGyroscope_std_X"                    
+            see data description. 
 59. "frequencyBodyGyroscope_std_Y"                    
+            see data description. 
 60. "frequencyBodyGyroscope_std_Z"                    
+            see data description. 
 61. "frequencyBodyAccelerometerMagnitude_mean"        
+            see data description. 
 62. "frequencyBodyAccelerometerMagnitude_std"         
+            see data description. 
 63. "frequencyBodyBodyAccelerometerJerkMagnitude_mean"
+            see data description. 
 64. "frequencyBodyBodyAccelerometerJerkMagnitude_std" 
+            see data description. 
 65. "frequencyBodyBodyGyroscopeMagnitude_mean"        
+            see data description. 
 66. "frequencyBodyBodyGyroscopeMagnitude_std"         
+            see data description. 
 67. "frequencyBodyBodyGyroscopeJerkMagnitude_mean"    
+            see data description. 
 68. "frequencyBodyBodyGyroscopeJerkMagnitude_std"     
-69. "activity_id"                                     
+            see data description. 
+69. "activity_id"     
+            Acitivity ID
+                        1: "WALKING"
+                        2: "WALKING_UPSTAIRS"
+                        3: "WALKING_DOWNSTAIRS"
+                        4: "SITTING"
+                        5: "STANDING"
+                        6: "LAYING"
 ````
