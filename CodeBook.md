@@ -12,7 +12,9 @@ For each record it is provided the mean and standard deviation (if any) of:
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
-
+In the features names:   
+* mean: Mean value
+* std: Standard deviation
 
 
 ## Variables / features
