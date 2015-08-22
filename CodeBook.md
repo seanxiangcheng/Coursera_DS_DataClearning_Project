@@ -27,52 +27,86 @@ In the features names:
 ## Variables / features
 ````
 1. "subject"     
-    subject number, 1...30
+            subject number, 1...30
 2. "activity"
-    Acitivity label
-        "WALKING"
-        "WALKING_UPSTAIRS"
-        "WALKING_DOWNSTAIRS"
-        "SITTING"
-        "STANDING"
-        "LAYING"
+            Acitivity label
+                        "WALKING"
+                        "WALKING_UPSTAIRS"
+                        "WALKING_DOWNSTAIRS"
+                        "SITTING"
+                        "STANDING"
+                        "LAYING"
 
 3. "timeBodyAccelerometer_mean_X"
-              see data description. 
-4. "timeBodyAccelerometer_mean_Y"                    
-5. "timeBodyAccelerometer_mean_Z"                    
-6. "timeBodyAccelerometer_std_X"                     
-7. "timeBodyAccelerometer_std_Y"                     
-8. "timeBodyAccelerometer_std_Z"                     
-9. "timeGravityAccelerometer_mean_X"                 
+            see data description. 
+4. "timeBodyAccelerometer_mean_Y"   
+            see data description. 
+5. "timeBodyAccelerometer_mean_Z" 
+            see data description. 
+6. "timeBodyAccelerometer_std_X"  
+            see data description. 
+7. "timeBodyAccelerometer_std_Y"  
+            see data description. 
+8. "timeBodyAccelerometer_std_Z"  
+            see data description. 
+9. "timeGravityAccelerometer_mean_X"
+            see data description. 
 10. "timeGravityAccelerometer_mean_Y"                 
-11. "timeGravityAccelerometer_mean_Z"                 
-12. "timeGravityAccelerometer_std_X"                  
-13. "timeGravityAccelerometer_std_Y"                  
-14. "timeGravityAccelerometer_std_Z"                  
-15. "timeBodyAccelerometerJerk_mean_X"                
-16. "timeBodyAccelerometerJerk_mean_Y"                
-17. "timeBodyAccelerometerJerk_mean_Z"                
-18. "timeBodyAccelerometerJerk_std_X"                 
+            see data description. 
+11. "timeGravityAccelerometer_mean_Z"
+            see data description. 
+12. "timeGravityAccelerometer_std_X"
+            see data description. 
+13. "timeGravityAccelerometer_std_Y"
+            see data description. 
+14. "timeGravityAccelerometer_std_Z"
+            see data description. 
+15. "timeBodyAccelerometerJerk_mean_X"
+            see data description. 
+16. "timeBodyAccelerometerJerk_mean_Y"
+            see data description. 
+17. "timeBodyAccelerometerJerk_mean_Z"
+            see data description. 
+18. "timeBodyAccelerometerJerk_std_X"
+            see data description. 
 19. "timeBodyAccelerometerJerk_std_Y"                 
+            see data description. 
 20. "timeBodyAccelerometerJerk_std_Z"                 
+            see data description. 
 21. "timeBodyGyroscope_mean_X"                        
+            see data description. 
 22. "timeBodyGyroscope_mean_Y"                        
-23. "timeBodyGyroscope_mean_Z"                        
-24. "timeBodyGyroscope_std_X"                         
-25. "timeBodyGyroscope_std_Y"                         
-26. "timeBodyGyroscope_std_Z"                         
-27. "timeBodyGyroscopeJerk_mean_X"                    
-28. "timeBodyGyroscopeJerk_mean_Y"                    
-29. "timeBodyGyroscopeJerk_mean_Z"                    
-30. "timeBodyGyroscopeJerk_std_X"                     
-31. "timeBodyGyroscopeJerk_std_Y"                     
-32. "timeBodyGyroscopeJerk_std_Z"                     
-33. "timeBodyAccelerometerMagnitude_mean"             
-34. "timeBodyAccelerometerMagnitude_std"              
-35. "timeGravityAccelerometerMagnitude_mean"          
-36. "timeGravityAccelerometerMagnitude_std"           
-37. "timeBodyAccelerometerJerkMagnitude_mean"         
+            see data description. 
+23. "timeBodyGyroscope_mean_Z"    
+            see data description. 
+24. "timeBodyGyroscope_std_X"     
+            see data description. 
+25. "timeBodyGyroscope_std_Y"     
+            see data description. 
+26. "timeBodyGyroscope_std_Z"     
+            see data description. 
+27. "timeBodyGyroscopeJerk_mean_X"
+            see data description. 
+28. "timeBodyGyroscopeJerk_mean_Y"
+            see data description. 
+29. "timeBodyGyroscopeJerk_mean_Z"
+            see data description. 
+30. "timeBodyGyroscopeJerk_std_X" 
+            see data description. 
+31. "timeBodyGyroscopeJerk_std_Y" 
+            see data description. 
+32. "timeBodyGyroscopeJerk_std_Z" 
+            see data description. 
+33. "timeBodyAccelerometerMagnitude_mean"
+            see data description. 
+34. "timeBodyAccelerometerMagnitude_std" 
+            see data description. 
+35. "timeGravityAccelerometerMagnitude_mean" 
+            see data description. 
+36. "timeGravityAccelerometerMagnitude_std"
+            see data description. 
+37. "timeBodyAccelerometerJerkMagnitude_mean" 
+            see data description. 
 38. "timeBodyAccelerometerJerkMagnitude_std"          
 39. "timeBodyGyroscopeMagnitude_mean"                 
 40. "timeBodyGyroscopeMagnitude_std"                  
