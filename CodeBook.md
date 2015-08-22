@@ -27,15 +27,15 @@ In the features names:
 ## Variables / features
 ````
 1. "subject"     
-subject number, 1...30
+    subject number, 1...30
 2. "activity"
-Acitivity label
-"WALKING"
-"WALKING_UPSTAIRS"
-"WALKING_DOWNSTAIRS"
-"SITTING"
-"STANDING"
-"LAYING"
+    Acitivity label
+        "WALKING"
+        "WALKING_UPSTAIRS"
+        "WALKING_DOWNSTAIRS"
+        "SITTING"
+        "STANDING"
+        "LAYING"
 
 3. "timeBodyAccelerometer_mean_X"
               see data description. 
