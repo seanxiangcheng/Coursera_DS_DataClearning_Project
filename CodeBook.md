@@ -6,21 +6,38 @@ A version of tidy data set for the class project of Getting and Cleaning Data
 * Data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Data Description
+The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals. The acceleration signal was then separated into body and gravity acceleration signals (timeBodyAccelerometer_XYZ and timeGravityAccelerometer_XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
+
+Subsequently, the body linear acceleration and angular velocity were derived in time to obtain Jerk signals (timeBodyAccelerometerJerk_XYZ and timeBodyGyroscopeJerk_XYZ). Also the magnitude of these three-dimensional signals were calculated using the Euclidean norm (tBodyAccMag, tGravityAccMag, tBodyAccJerkMag, tBodyGyroMag, tBodyGyroJerkMag).
+
+Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals).
+
 For each record it is provided the mean and standard deviation (if any) of:
 * Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
 * Triaxial Angular velocity from the gyroscope. 
 * A 561-feature vector with time and frequency domain variables. 
 * Its activity label. 
 * An identifier of the subject who carried out the experiment.
+
 In the features names:   
 * mean: Mean value
 * std: Standard deviation
 
 
 ## Variables / features
-* 1. "subject"                                         
-* 2. "activity"                                        
-* 3. "timeBodyAccelerometer_mean_X"                    
+* 1. "subject"     
+              subject number, 1...30
+* 2. "activity"
+    Acitivity label
+                           "WALKING"
+                           "WALKING_UPSTAIRS"
+                           "WALKING_DOWNSTAIRS"
+                           "SITTING"
+                           "STANDING"
+                           "LAYING"
+
+* 3. "timeBodyAccelerometer_mean_X"
+              see data description. 
 * 4. "timeBodyAccelerometer_mean_Y"                    
 * 5. "timeBodyAccelerometer_mean_Z"                    
 * 6. "timeBodyAccelerometer_std_X"                     
