@@ -117,57 +117,57 @@ In the features names:
             see data description. 
 42. "timeBodyGyroscopeJerkMagnitude_std"              
             see data description. 
-43. "frequencyBodyAccelerometer_mean_X"               
+43. "frequencyBodyAccelerometer_mean_X",        Unit: Hz             
             see data description. 
-44. "frequencyBodyAccelerometer_mean_Y"               
+44. "frequencyBodyAccelerometer_mean_Y",        Unit: Hz               
             see data description. 
-45. "frequencyBodyAccelerometer_mean_Z"               
+45. "frequencyBodyAccelerometer_mean_Z",        Unit: Hz
             see data description. 
-46. "frequencyBodyAccelerometer_std_X"                
+46. "frequencyBodyAccelerometer_std_X",        Unit: Hz                
             see data description. 
-47. "frequencyBodyAccelerometer_std_Y"                
+47. "frequencyBodyAccelerometer_std_Y",        Unit: Hz                
             see data description. 
-48. "frequencyBodyAccelerometer_std_Z"                
+48. "frequencyBodyAccelerometer_std_Z",        Unit: Hz                
             see data description. 
-49. "frequencyBodyAccelerometerJerk_mean_X"           
+49. "frequencyBodyAccelerometerJerk_mean_X",        Unit: Hz           
             see data description. 
-50. "frequencyBodyAccelerometerJerk_mean_Y"           
+50. "frequencyBodyAccelerometerJerk_mean_Y",        Unit: Hz           
             see data description. 
-51. "frequencyBodyAccelerometerJerk_mean_Z"           
+51. "frequencyBodyAccelerometerJerk_mean_Z",        Unit: Hz           
             see data description. 
-52. "frequencyBodyAccelerometerJerk_std_X"            
+52. "frequencyBodyAccelerometerJerk_std_X",        Unit: Hz            
             see data description. 
-53. "frequencyBodyAccelerometerJerk_std_Y"            
+53. "frequencyBodyAccelerometerJerk_std_Y",        Unit: Hz            
             see data description. 
-54. "frequencyBodyAccelerometerJerk_std_Z"            
+54. "frequencyBodyAccelerometerJerk_std_Z",        Unit: Hz            
             see data description. 
-55. "frequencyBodyGyroscope_mean_X"                   
+55. "frequencyBodyGyroscope_mean_X",        Unit: Hz                   
             see data description. 
-56. "frequencyBodyGyroscope_mean_Y"                   
+56. "frequencyBodyGyroscope_mean_Y",        Unit: Hz                   
             see data description. 
-57. "frequencyBodyGyroscope_mean_Z"                   
+57. "frequencyBodyGyroscope_mean_Z",        Unit: Hz                   
             see data description. 
-58. "frequencyBodyGyroscope_std_X"                    
+58. "frequencyBodyGyroscope_std_X",        Unit: Hz                    
             see data description. 
-59. "frequencyBodyGyroscope_std_Y"                    
+59. "frequencyBodyGyroscope_std_Y",        Unit: Hz                    
             see data description. 
-60. "frequencyBodyGyroscope_std_Z"                    
+60. "frequencyBodyGyroscope_std_Z",        Unit: Hz                    
             see data description. 
-61. "frequencyBodyAccelerometerMagnitude_mean"        
+61. "frequencyBodyAccelerometerMagnitude_mean",        Unit: Hz       
             see data description. 
-62. "frequencyBodyAccelerometerMagnitude_std"         
+62. "frequencyBodyAccelerometerMagnitude_std",        Unit: Hz         
             see data description. 
-63. "frequencyBodyBodyAccelerometerJerkMagnitude_mean"
+63. "frequencyBodyBodyAccelerometerJerkMagnitude_mean",        Unit: Hz
             see data description. 
-64. "frequencyBodyBodyAccelerometerJerkMagnitude_std" 
+64. "frequencyBodyBodyAccelerometerJerkMagnitude_std",        Unit: Hz 
             see data description. 
-65. "frequencyBodyBodyGyroscopeMagnitude_mean"        
+65. "frequencyBodyBodyGyroscopeMagnitude_mean",        Unit: Hz        
             see data description. 
-66. "frequencyBodyBodyGyroscopeMagnitude_std"         
+66. "frequencyBodyBodyGyroscopeMagnitude_std",        Unit: Hz         
             see data description. 
-67. "frequencyBodyBodyGyroscopeJerkMagnitude_mean"    
+67. "frequencyBodyBodyGyroscopeJerkMagnitude_mean",        Unit: Hz    
             see data description. 
-68. "frequencyBodyBodyGyroscopeJerkMagnitude_std"     
+68. "frequencyBodyBodyGyroscopeJerkMagnitude_std",        Unit: Hz     
             see data description. 
 69. "activity_id"     
             Acitivity ID
